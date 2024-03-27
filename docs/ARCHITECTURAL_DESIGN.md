@@ -27,7 +27,7 @@ This document outlines the comprehensive data architecture for the Adaptive User
 - **Authentication and Authorization:** Implements OAuth 2.0 and JWT for secure access control.
 - **Regulatory Compliance:** Ensures the system meets GDPR, CCPA, and other data protection standards.
 
-# AUIE Data Architecture Specification
+## AUIE Data Architecture Specification
 
 ## 1. Data Collection and Integration
 
